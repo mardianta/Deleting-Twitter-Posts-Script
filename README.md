@@ -1,5 +1,7 @@
-# Delete-twitter-post
-## Copy and paste the code into the browser's JS console.
+# Deleting Twitter Posts Script
+To remove Twitter posts, follow these steps:
+
+## 1. Copy and paste the code into the browser's JS console.
     // TO DELETE TWEETS MUST BE RUN FROM https://twitter.com/{yourTwitterHandle}
     // TO DELETE REPLIES MUST BE RUN FROM https://twitter.com/{yourTwitterHandle}/with_replies
     
