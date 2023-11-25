@@ -1,5 +1,5 @@
 # Delete-twitter-post
-
+## Code
 
     // TO DELETE TWEETS MUST BE RUN FROM https://twitter.com/{yourTwitterHandle}
     // TO DELETE REPLIES MUST BE RUN FROM https://twitter.com/{yourTwitterHandle}/with_replies
@@ -64,3 +64,7 @@
         }
     }
     main()
+
+
+## Reference 
+- https://stackoverflow.com/questions/64863099/deleting-tweets-with-js-console
