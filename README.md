@@ -1,6 +1,5 @@
 # Delete-twitter-post
-## The code copy-paste in console JS browser
-
+## Copy and paste the code into the browser's JS console.
     // TO DELETE TWEETS MUST BE RUN FROM https://twitter.com/{yourTwitterHandle}
     // TO DELETE REPLIES MUST BE RUN FROM https://twitter.com/{yourTwitterHandle}/with_replies
     
